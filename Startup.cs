@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using MongoApi.Models;
+using System.Reflection;
+using NJsonSchema;
+using NSwag.AspNetCore;
 
 namespace MongoApi
 {
@@ -48,6 +51,10 @@ namespace MongoApi
                 app.UseHsts();
             }
 
+            app.UseSwaggerUi(typeof(Startup).GetTypeInfo().Assembly, settings => {
+                settings.GeneratorSettings.DefaultPropertyNameHandling =
+                    PropertyNameHandling.CamelCase;
+            });
             // app.UseHttpsRedirection();
             app.UseMvc();
         }
