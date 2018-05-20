@@ -1,0 +1,14 @@
+/home/guille/desarrollo/dotNetCore/MongoApi/bin/Debug/netcoreapp2.1/MongoApi.deps.json
+/home/guille/desarrollo/dotNetCore/MongoApi/bin/Debug/netcoreapp2.1/MongoApi.runtimeconfig.json
+/home/guille/desarrollo/dotNetCore/MongoApi/bin/Debug/netcoreapp2.1/MongoApi.runtimeconfig.dev.json
+/home/guille/desarrollo/dotNetCore/MongoApi/bin/Debug/netcoreapp2.1/MongoApi.dll
+/home/guille/desarrollo/dotNetCore/MongoApi/bin/Debug/netcoreapp2.1/MongoApi.pdb
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.csprojAssemblyReference.cache
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.csproj.CoreCompileInputs.cache
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.RazorAssemblyInfo.cache
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.RazorAssemblyInfo.cs
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.AssemblyInfoInputs.cache
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.AssemblyInfo.cs
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.RazorTargetAssemblyInfo.cache
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.dll
+/home/guille/desarrollo/dotNetCore/MongoApi/obj/Debug/netcoreapp2.1/MongoApi.pdb
